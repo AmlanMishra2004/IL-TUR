@@ -1,0 +1,12 @@
+tqdm 
+pandas 
+transformers>=4.38
+torch 
+scikit-learn
+evaluate
+numpy<2
+pyarrow==12.0.1
+protobuf
+sentencepiece
+accelerate>=0.26.0
+optuna
